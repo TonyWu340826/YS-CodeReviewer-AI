@@ -5,6 +5,10 @@ YS-CodeReviewer-AI 不只是一个代码审计工具，而是一位懂你代码�
 DiAma Automatic Code Review System is more than just a static analyzer — it’s an AI teammate who understands your coding style. Code review should not only find bugs, but also help developers write better code.
 
 ⚙️ 核心功能 | Core Features
+<img width="642" height="637" alt="371e31175e2d4030c4ef57f326204ce3" src="https://github.com/user-attachments/assets/3950cb36-d63c-4c36-b33c-e192f9d739f2" />
+<img width="674" height="687" alt="0a55f2c18e2ed537a1a56e42b7102c77" src="https://github.com/user-attachments/assets/7048d9f9-b38d-49bb-9f8c-25ad11181ade" />
+<img width="655" height="472" alt="77522afbbcc6d54e25885ede82b0fe90" src="https://github.com/user-attachments/assets/5ba51858-9de1-423b-8f39-09d6cf4fcc8e" />
+
 
 🤖 AI 智能审计 / AI-powered Review：基于大语言模型分析代码，发现潜在风险与优化点
 
